@@ -1,5 +1,5 @@
 # Subset Generation for Client Scheduling in Federated Learning
-This repo contains a Jupyter Notebook [Stage 2 Scheduling - Subset Generation.ipynb] that implements Algorithm 1 (Generate Subsets) of the paper "Ensuring Fairness in Federated Learning Services: Innovative Approaches to Client Selection, Scheduling, and Rewards" to be included in the IEEE ICDCS 2024 conference. 
+This repo contains a Jupyter Notebook [Stage 2 Scheduling - Subset Generation.ipynb] that implements Algorithm 1 (Generate Subsets) of the paper "Ensuring Fairness in Federated Learning Services: Innovative Approaches to Client Selection, Scheduling, and Rewards" published at the IEEE ICDCS 2024 conference. DOI: 10.1109/ICDCS60910.2024.00076
 
 The code uses IBM CPLEX (https://www.ibm.com/products/ilog-cplex-optimization-studio) to solve multidimensional knapsack problems (MKP). 
 
